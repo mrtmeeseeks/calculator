@@ -1,2 +1,4 @@
-# calculator
-A calculator using node
+# Calculator
+
+## Operation
+ - Adding
